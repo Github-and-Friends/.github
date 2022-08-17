@@ -13,7 +13,10 @@ Github and friends is an open community that seeks to foster and cultivate stude
 
 More to come but basically before you critique, suggest 
 
-# 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+# 👩‍💻 Useful resources
+- For easy learning use [Sololearn](https://www.sololearn.com/home)
+- Follow Github on [Youtube](https://www.youtube.com/c/GitHub)
+- For Quick explainers watch [fireship](https://www.youtube.com/c/Fireship)
 
 # 🍿 Fun facts
 
