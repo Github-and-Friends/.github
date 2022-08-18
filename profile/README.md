@@ -5,11 +5,12 @@
 
 **Here are some ideas to get you started:**
 
-# 🙋‍♀️ A short introduction 
+## 🙋‍♀️ A short introduction 
 
-Github and friends is an open community that seeks to foster and cultivate student talent by teaching and collaborating on projects in teams using Github.
+Github and friends is an open community that seeks to foster and cultivate student talent by teaching and collaborating on projects in teams using Github. Over the last couple of years, github has become the house for most software and open source repositories. Github and friends seeks to provide that platform to allow its members to work together and learn new skills as well as share ideas in tech and possibly contribute to the open source community.
+<br/><br/>
 
-# 🌈 Contribution guidelines 
+## 🌈 Contribution guidelines 
 
 More to come but basically before you critique, suggest 
 
@@ -26,11 +27,11 @@ More to come but basically before you critique, suggest
 
 # 🚀 If you want to join, feel free to contact the people below
 
-[Bentil](https://wa.me/233556844331)
+<img src="https://avatars.githubusercontent.com/u/55560024?v=4" width="100"/> <br>[Bentil](https://wa.me/233556844331)
 
-[Nutifafa](https://wa.me/233502297337)
+ <img src="https://avatars.githubusercontent.com/u/88439064?v=4" width="100"/> &nbsp; <br>[Nutifafa](https://wa.me/233502297337)
 
-[Adielade](https://wa.me/233275025158)
+<img src="https://avatars.githubusercontent.com/u/88384474?v=4" width="100"/><br>[Adelaide](https://wa.me/233275025158)
 
 Questions?
 
@@ -38,31 +39,32 @@ Questions?
 
 
 
-# 👯‍♂️ Members
+## 👯‍♂️ Members
 
-- Kelvin Sowah - https://github.com/ksowah 
-- Shinelle-Baaba - https://github.com/baabashinelle 
-- Winfred - https://gitbhub.com/winfredo 
-- Theodore - https://github.com/Theodore582 
-- Lex-Benjamin-🍁 - https://GitHub.com/theboybreyy 
-- David-Main - https://github.com/David-Main 
-- Faustina - https://github.com/Ansomah007 
-- Koby - https://github.com/Qwabena-Proxy 
-- Elvis Komla - https://github.com/LighteningCode 
-- Allytyson❤️💀 - https://github.com/allytyson16 
-- Derelmi - https://github.com/Derelmi 
-- Nutifafa - https://github.com/neophyte-programmer 
-- Delali - https://github.com/Dela758 
-- Ronen - https://github.com/RonenTGreat 
-- Ethel - https://github.com/Ethel3 
-- Kevin-black - https://GitHub.com/codewithkevin 
-- “mhira” - https://github.com/mhira-codes 
-- Cyrese - https://gitbhub.com/CyreseM 
-- Samuel - https://github.com/samtuga1 
-- Eugene - https://github.com/cobbaheugene 
-- Kimi-Kevin - https://github.com/kevin2-cyber 
-- Bentil - https://github.com/qbentil 
-- Simiel - https://github.com/simiel 
-- Vera🦋 - https://github.com/Vevie 
-- Sonny - https://gitbhub.com/sonnysam 
+
+<h3 align="center">Elvis Komla Agbesi</h3>
+<p align="center">
+    <a href="https://github.com/LighteningCode"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/LighteningCode"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+    <a href="https://github.com/LighteningCode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+    
+</p>
+<h3 align="center">Elvis Komla Agbesi</h3>
+<p align="center">
+    <a href="https://github.com/LighteningCode"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/LighteningCode"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+    <a href="https://github.com/LighteningCode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+    
+</p>
+
+|Member| Github | Whatsapp| LinkedIn|
+|---|---------|---------| ----------|
+|Elvis|<a href="https://github.com/LighteningCode"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>|||
+|Bentil|<a href="https://github.com/qbentil"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>|||
+|Nutifafa|<a href="https://github.com/LighteningCode"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>|||
+|Adelaide|<a href="https://github.com/LighteningCode"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>|||
+
+
 
