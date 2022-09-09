@@ -15,7 +15,7 @@ More to come but basically before you critique, suggest
 <br/><br/><br/>
 # 👩‍💻 Useful resources
 - For easy learning use [Sololearn](https://www.sololearn.com/home)
-- Follow Github on [Youtube](https://www.youtube.com/c/GitHub)
+- Follow Github on [Youtube](https://www.youtube.com/channel/UC4QK9oubteM4ifF08nFM99A/featured)
 - For Quick explainers watch [fireship](https://www.youtube.com/c/Fireship)
 <br/><br/><br/>
 # 🍿 Fun facts
