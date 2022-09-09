@@ -1,6 +1,6 @@
 
 ## Hi there 👋,  We are friends on github
-<img src="images/github-social.png">
+<img src="https://firebasestorage.googleapis.com/v0/b/gifer-app.appspot.com/o/github-social.png?alt=media&token=6dfceebf-488f-4c66-ab6a-bf208d67cc7c">
 
 **Here are some ideas to get you started:**
 
@@ -38,7 +38,7 @@ Questions?
 
 
 
-## 👯‍♂️ Members
+<!-- ## 👯‍♂️ Members
 
 
 <h3 align="center">Elvis Komla Agbesi</h3>
@@ -268,5 +268,5 @@ Questions?
 
 
 </p><br><br>
- 
+  -->
 
