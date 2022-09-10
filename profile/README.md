@@ -26,15 +26,15 @@ More to come but basically before you critique, suggest
 
 # 🚀 If you want to join, feel free to contact the people below
 
-<img src="https://avatars.githubusercontent.com/u/55560024?v=4" width="100"> <br><a href>[Bentil](https://wa.me/233556844331)</a>
+<img src="https://avatars.githubusercontent.com/u/55560024?v=4" width="100"> <br><a href>[Bentil](https://github.com/qbentil)</a>
 
- <img src="https://avatars.githubusercontent.com/u/88439064?v=4" width="100"/> &nbsp; <br>[Nutifafa](https://wa.me/233502297337)
+ <img src="https://avatars.githubusercontent.com/u/88439064?v=4" width="100"/> &nbsp; <br>[Nutifafa](https://github.com/neophyte-programmer)
 
 <img src="https://avatars.githubusercontent.com/u/88384474?v=4" width="100"/><br>[Adelaide](https://wa.me/233275025158)
 
 Questions?
 
-[Elvis](https://wa.me/233267658663)
+[Elvis](https://github.com/LighteningCode)
 
 
 
