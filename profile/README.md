@@ -30,7 +30,7 @@ More to come but basically before you critique, suggest
 
  <img src="https://avatars.githubusercontent.com/u/88439064?v=4" width="100"/> &nbsp; <br>[Nutifafa](https://github.com/neophyte-programmer)
 
-<img src="https://avatars.githubusercontent.com/u/88384474?v=4" width="100"/><br>[Adelaide](https://wa.me/233275025158)
+<img src="https://avatars.githubusercontent.com/u/88384474?v=4" width="100"/><br>[Adelaide]([https://wa.me/233275025158](https://github.com/allytyson16))
 
 Questions?
 
