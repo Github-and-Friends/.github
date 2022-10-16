@@ -269,4 +269,6 @@ Questions?
 
 </p><br><br>
   -->
+  
+  <img src="https://firebasestorage.googleapis.com/v0/b/pay-zero.appspot.com/o/94487808-c8304800-019e-11eb-97ef-414924be0e08.gif?alt=media&token=9e10c1d8-392c-41bf-90f0-0044d8784616" />
 
