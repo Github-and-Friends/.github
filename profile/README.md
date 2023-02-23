@@ -36,6 +36,8 @@ More to come but basically before you critique, suggest
 
 - For Quick explainers watch [fireship](https://www.youtube.com/c/Fireship)
 
+- For our schedule use this [link](https://calendar.google.com/calendar/u/0?cid=OTQyZDNmYjkzZmFjNmNjZjE4MzY1OWFiMzM3ZTE3M2MwMTI3YTIyN2M0NDc0YTc0NjI5NzI0MDVlYzVmZTk4N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to add our calendar to your google account on other devices here is a calendar you can add [link](https://calendar.google.com/calendar/ical/942d3fb93fac6ccf183659ab337e173c0127a227c4474a7462972405ec5fe987%40group.calendar.google.com/public/basic.ics)
+
 <br/><br/><br/>
 
 # 🍿 Fun facts
